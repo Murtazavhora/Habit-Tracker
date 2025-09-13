@@ -6,7 +6,7 @@ description: >
 getting_started:
   - step: "Clone the Repository"
     command: |
-      git clone https://github.com/Murtazavhora /Habit-Tracker.git
+      git clone https://github.com/Murtazavhora/Habit-Tracker.git
       cd Habit-Tracker
   - step: "Install Dependencies"
     command: |
